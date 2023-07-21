@@ -47,7 +47,6 @@ print(x1, x2)
 
 n  = int(input("Введите число: "))
 k = 1
-num = 0
 while k < n:
     print(k, end=' ')
     k = k * 2
